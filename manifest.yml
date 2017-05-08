@@ -1,6 +1,5 @@
 ---
 applications:
-  - name: test-app
-    memory: 256M
+  - name: innovAtos
+    memory: 16M
     instances: 1
-    random-route: true
