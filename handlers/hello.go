@@ -17,8 +17,7 @@ func (p *Hello) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 	styledTemplate.Execute(w, Body{Body: fmt.Sprintf(`
 <div class="hello">
-	InnovAtos 2016	
-  http://innovatos.hopto.org
+	InnovAtos 2016 http://innovatos.hopto.org
 </div>
 
 <div class="my-index">My Index Is</div>
