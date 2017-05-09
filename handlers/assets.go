@@ -32,7 +32,7 @@ dt {
 .hello {
   position:absolute;
   top:0;
-  height:120px;
+  height:160px;
   left:0;
   right:0;
   text-align:center;
@@ -48,7 +48,7 @@ dt {
 
 .my-index {
   position:absolute;
-  top:120px;
+  top:160px;
   height:30px;
   color: #333;
   font-size:30px;
@@ -65,7 +65,7 @@ dt {
 
 .index {
   position:absolute;
-  top:176px;
+  top:216px;
   height:120px;
   left:0;
   right:0;
@@ -82,7 +82,7 @@ dt {
 
 .mid-color {
   position:absolute;
-  top:296px;
+  top:336px;
   height:120px;
   left:0;
   right:0;
@@ -99,7 +99,7 @@ dt {
 
 .bottom-color {
   position:absolute;
-  top:416px;
+  top:456px;
   bottom:0;
   left:0;
   right:0;
