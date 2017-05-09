@@ -32,16 +32,28 @@ dt {
 .hello {
   position:absolute;
   top:0;
-  height:160px;
+  height:90px;
   left:0;
   right:0;
   text-align:center;
   font-size:70px;
   font-weight:bold;
-  line-height:80px;
+  line-height:90px;
   color: rgb(0,139,185);
 }
 
+.link {
+  position:absolute;
+  top:90;
+  height:70px;
+  left:0;
+  right:0;
+  text-align:center;
+  font-size:60px;
+  font-weight:bold;
+  line-height:70px;
+  color: rgb(0,139,185);
+}
 .goodbye .hello {
   color: #fff;
 }
