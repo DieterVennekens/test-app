@@ -36,7 +36,7 @@ dt {
   left:0;
   right:0;
   text-align:center;
-  font-size:80px;
+  font-size:70px;
   font-weight:bold;
   line-height:80px;
   color: rgb(0,139,185);
