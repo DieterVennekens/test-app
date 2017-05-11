@@ -1,5 +1,5 @@
 ---
 applications:
-  - name: demoApp
+  - name: AtosDemoApp
     memory: 16M
     instances: 1
