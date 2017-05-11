@@ -1,5 +1,5 @@
 ---
 applications:
-  - name: innovAtos
+  - name: demoApp
     memory: 16M
     instances: 1
