@@ -17,7 +17,7 @@ func (p *Hello) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 	styledTemplate.Execute(w, Body{Body: fmt.Sprintf(`
 <div class="hello">
-	Atos Demo App 2017
+	Atos Demo App 2018
 </div>
 <div class="link">atosDemo.hopto.org</div>
 <div class="my-index">My Index Is</div>
